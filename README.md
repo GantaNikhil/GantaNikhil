@@ -25,10 +25,9 @@
 --- 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em><br/> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpawanraj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpawanraj" /> </p>
-<h1 align="left"> 
-    <a href="https://www.linkedin.com/in/myselfpawanraj">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhil&label=Profile%20views&color=0e75b6&style=flat" alt="gantanikhil" /> </p><h1 align="left"> 
+    <a href="https://www.linkedin.com/in/nikhilganta">
     <img src="https://img.shields.io/badge/-Nikhil Ganta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-ganta-225b99210"/></a>
-    <a href="mailto:iampawan17@gmail.com">
+    <a href="mailto:gantanikhil003@gmail.com">
     <img src="https://img.shields.io/badge/-gantanikhil003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantanikhil003@gmail.com"/></a>
 </h1>

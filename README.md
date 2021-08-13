@@ -4,7 +4,7 @@
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 <!-- <h3 align="center">Android Developer at
     <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="350" height="350"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="200" height="200"/>
 
 - 📫 How to reach me **gantanikhil003@gmail.com**
 <h3 align="left">Connect with me:</h3>

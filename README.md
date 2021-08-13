@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from India</h3>
 <h3 align="center">I'm a Second Year Student at
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
-<h3 align="center">Android Developer at
-    <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
+<!-- <h3 align="center">Android Developer at
+    <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3> -->
+<img align="right" alt="GIF" src="https://giphy.com/gifs/glee-image-wiki-wvQIqJyNBOCjK" width="350" height="350"/>
 
 - 📫 How to reach me **gantanikhil003@gmail.com**
 <h3 align="left">Connect with me:</h3>

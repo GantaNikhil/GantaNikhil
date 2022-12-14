@@ -30,5 +30,3 @@
     <a href="mailto:gantanikhil003@gmail.com">
     <img src="https://img.shields.io/badge/-gantanikhil003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantanikhil003@gmail.com"/></a>
 </h1>
-[![@nik19_hil's Holopin board](https://holopin.me/nik19_hil)](https://holopin.io/@nik19_hil)
-

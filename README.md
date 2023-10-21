@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Nikhil Ganta 😀 </h1>
 <h3 align="center">A passionate developer from India</h3>
-<h3 align="center">I'm a Pre-final Year Student at
+<h3 align="center">I'm a Final Year Student at
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 <!-- <h3 align="center">Android Developer at
     <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3> -->

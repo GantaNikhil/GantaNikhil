@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Nikhil Ganta 😀 </h1>
 <h3 align="center">A passionate developer from India</h3>
-<h3 align="center">I'm a Final Year Student at
+<h3 align="center">Final Year UnderGraduate at
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 <!-- <h3 align="center">Android Developer at
     <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3> -->
@@ -30,3 +30,5 @@
     <a href="mailto:gantanikhil003@gmail.com">
     <img src="https://img.shields.io/badge/-gantanikhil003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gantanikhil003@gmail.com"/></a>
 </h1>
+
+[![An image of @nik19_hil's Holopin badges](https://holopin.me/nik19_hil)](https://holopin.io/@nik19_hil)
